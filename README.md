@@ -1,4 +1,5 @@
 # Qt-nanodet-ncnn-handPose
+## related technologies:
 windows10,c++,Qt,nanodet,ncnn,handpose
 
 ## handPose result:
