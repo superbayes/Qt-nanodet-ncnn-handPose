@@ -2,7 +2,7 @@
 ## related technologies:
 * windows10
 * C++
-* Qt
+* Qt 5.12.9
 * nanodet
 * ncnn
 * handpose
