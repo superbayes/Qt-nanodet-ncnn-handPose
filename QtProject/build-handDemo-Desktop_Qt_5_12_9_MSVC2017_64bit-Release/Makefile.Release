@@ -1408,6 +1408,38 @@ release\mainwindow.obj: ..\handDemo\mainwindow.cpp ..\handDemo\mainwindow.h \
 		D:\ProgramData\ncnn-20211122-windows-vs2017-shared\x64\include\ncnn\vulkan_header_fix.h \
 		..\handDemo\handAI\handpose.h \
 		ui_mainwindow.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtCore\QVariant \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QApplication \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qapplication.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtCore\qcoreapplication.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtCore\qeventloop.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qdesktopwidget.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qguiapplication.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qinputmethod.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QMenuBar \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qmenubar.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qmenu.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qaction.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qactiongroup.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QOpenGLWidget \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qopenglwidget.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QWidget \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\QSurfaceFormat \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qsurfaceformat.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qopengl.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtCore\qt_windows.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtANGLE\GLES3\gl3.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtANGLE\GLES3\gl3platform.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtANGLE\KHR\khrplatform.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtANGLE\GLES2\gl2.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtANGLE\GLES2\gl2platform.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qopengles2ext.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtGui\qopenglext.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QPushButton \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qpushbutton.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qabstractbutton.h \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\QStatusBar \
+		D:\Qt\5.12.9\msvc2017_64\include\QtWidgets\qstatusbar.h \
 		..\handDemo\myutils.h \
 		D:\Qt\5.12.9\msvc2017_64\include\QtMultimedia\QCamera \
 		D:\Qt\5.12.9\msvc2017_64\include\QtMultimedia\qcamera.h \
