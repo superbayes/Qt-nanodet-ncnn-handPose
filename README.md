@@ -10,7 +10,7 @@
 ## handPose result:
  ![image](https://github.com/superbayes/Qt-nanodet-ncnn-handPose/blob/main/image/handPose_result.gif)
  
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://github.com/superbayes/Qt-nanodet-ncnn-handPose/blob/main/image/handPose_result.mp4)
 
 
 ## note:
