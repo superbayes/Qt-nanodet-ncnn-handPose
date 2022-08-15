@@ -6,6 +6,7 @@
 * nanodet
 * ncnn
 * handpose
+* * Vulkan 1.2.198.1
 
 ## handPose result:
  ![image](https://github.com/superbayes/Qt-nanodet-ncnn-handPose/blob/main/image/handPose_result.gif)
